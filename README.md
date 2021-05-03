@@ -1,0 +1,1 @@
+# rednotice_django
